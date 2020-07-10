@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18544" started-at="2020-07-09T12:01:10Z" finished-at="2020-07-09T12:01:28Z">
+  <suite name="Default suite" duration-ms="24214" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18544" started-at="2020-07-09T12:01:10Z" finished-at="2020-07-09T12:01:28Z">
-      <class name="tests.Gmail_LoginTest">
-        <test-method status="PASS" signature="testsetup()[pri:0, instance:tests.Gmail_LoginTest@3bfdc050]" name="testsetup" is-config="true" duration-ms="6882" started-at="2020-07-09T12:01:10Z" finished-at="2020-07-09T12:01:17Z">
+    <test name="Default test" duration-ms="24214" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:31Z">
+      <class name="tests.Facebook_LoginTest_usingreadconfig">
+        <test-method status="PASS" signature="testsetup()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="testsetup" is-config="true" duration-ms="19906" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testsetup -->
-        <test-method status="PASS" signature="loginpage()[pri:0, instance:tests.Gmail_LoginTest@3bfdc050]" name="loginpage" duration-ms="9224" started-at="2020-07-09T12:01:17Z" finished-at="2020-07-09T12:01:26Z">
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="loginpage" duration-ms="3822" started-at="2020-07-10T12:40:27Z" finished-at="2020-07-10T12:40:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpage -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Gmail_LoginTest@3bfdc050]" name="teardown" is-config="true" duration-ms="2396" started-at="2020-07-09T12:01:26Z" finished-at="2020-07-09T12:01:28Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="teardown" is-config="true" duration-ms="437" started-at="2020-07-10T12:40:30Z" finished-at="2020-07-10T12:40:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- tests.Gmail_LoginTest -->
+      </class> <!-- tests.Facebook_LoginTest_usingreadconfig -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
