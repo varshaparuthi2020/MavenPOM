@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24214" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:31Z">
+  <suite name="Default suite" duration-ms="44437" started-at="2020-07-14T12:59:23Z" finished-at="2020-07-14T13:00:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24214" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:31Z">
-      <class name="tests.Facebook_LoginTest_usingreadconfig">
-        <test-method status="PASS" signature="testsetup()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="testsetup" is-config="true" duration-ms="19906" started-at="2020-07-10T12:40:07Z" finished-at="2020-07-10T12:40:27Z">
+    <test name="Default test" duration-ms="44437" started-at="2020-07-14T12:59:23Z" finished-at="2020-07-14T13:00:07Z">
+      <class name="tests.FileUploadusingRobotclass">
+        <test-method status="PASS" signature="uploadfile()[pri:0, instance:tests.FileUploadusingRobotclass@27efef64]" name="uploadfile" duration-ms="44361" started-at="2020-07-14T12:59:23Z" finished-at="2020-07-14T13:00:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testsetup -->
-        <test-method status="PASS" signature="loginpage()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="loginpage" duration-ms="3822" started-at="2020-07-10T12:40:27Z" finished-at="2020-07-10T12:40:30Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginpage -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Facebook_LoginTest_usingreadconfig@685cb137]" name="teardown" is-config="true" duration-ms="437" started-at="2020-07-10T12:40:30Z" finished-at="2020-07-10T12:40:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- tests.Facebook_LoginTest_usingreadconfig -->
+        </test-method> <!-- uploadfile -->
+      </class> <!-- tests.FileUploadusingRobotclass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
